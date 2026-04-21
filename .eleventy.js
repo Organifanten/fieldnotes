@@ -13,7 +13,6 @@ module.exports = function eleventyConfigFunction(eleventyConfig) {
   });
 
   return {
-    pathPrefix: "/Teamentwicklung/",
     dir: {
       input: "src",
       dat: "_data",
